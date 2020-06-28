@@ -15,7 +15,7 @@ Given a face with yellowish background, it generates a 48x48 pixel mosaic of the
 * Select the input image when prompted
 * The output images will be saved in the folder where the Script is
 
-# Output:
+## Output:
 * Firstly, when the matlab program finishes, it will display a Figure with all the Output Face Mosaic Options
 * Secondly, all these mosaic options will be saved in the same Folder as the Script
 
