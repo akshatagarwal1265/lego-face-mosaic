@@ -3,9 +3,9 @@ Given a face with yellowish background, it generates a 48x48 pixel mosaic of the
 
 ## Mimic/Improve upon the actual Lego Mosaic Maker
 * **Below are the sample outputs from the actual Lego Mosaic Maker** <br/>
-![Real Lego Output 1](/images/RealLegoOutput1.png)
-![Real Lego Output 2](/images/RealLegoOutput2.png)
-![Real Lego Output 3](/images/RealLegoOutput3.png) <br/>
+![Real Lego Output 1](/images/RealLegoOutput1.jpg)
+![Real Lego Output 2](/images/RealLegoOutput2.jpg)
+![Real Lego Output 3](/images/RealLegoOutput3.jpg) <br/>
 * **NOT SO GREAT, right?**
 
 # My Attempt at the Face Mosaic Maker
