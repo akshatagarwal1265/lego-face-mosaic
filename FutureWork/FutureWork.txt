@@ -1,0 +1,4 @@
+@ KNN usually works better than K-means Clustering, So try that.
+@ Contrast Stretching could be used in Pre-Processing to darken the darker areas and lighten the lighter ones.
+@ PCA could be experimented for performance improvement before applying K-means/KNN.
+@ Further, more Pre-Processing techniques could be applied as not much pre-processing has been done.
