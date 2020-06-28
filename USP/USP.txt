@@ -1,0 +1,1 @@
+@ Was doing the ML Course on Coursera (Stanford-Andrew Ng); Had seen the "Lego Mosaic Maker" video recently; Could relate K-means Clustering with it; Implemented Matlab code as "Proof of Concept"
