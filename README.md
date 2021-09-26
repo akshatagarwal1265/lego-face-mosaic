@@ -37,4 +37,4 @@ Given a face with yellowish background, it generates a 48x48 pixel mosaic of the
 * **Output - Mosaic Enlarged** -> The first output above seems to work the best. This is an enlarged view of what it looks like <br/>
 ![Mosaic Enlarged](/images/MosaicEnlarged.JPG)
 
-* **NOT SO BAD, right?**
+* **NOT BAD, right?**
