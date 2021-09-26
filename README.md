@@ -2,10 +2,10 @@
 Given a face with yellowish background, it generates a 48x48 pixel mosaic of the face just like the Lego Mosaic Maker
 
 ## Mimic/Improve upon the actual Lego Mosaic Maker
-* **Below are the sample outputs from the actual Lego Mosaic Maker** <br/>
+* **Below are the sample outputs from the actual Lego Mosaic Maker** <br/> <br/>
 ![Real Lego Output 1](/images/RealLegoOutput1.jpg)
 ![Real Lego Output 2](/images/RealLegoOutput2.jpg)
-![Real Lego Output 3](/images/RealLegoOutput3.jpg) <br/>
+![Real Lego Output 3](/images/RealLegoOutput3.jpg) <br/> <br/>
 * **NOT SO GREAT, right?**
 
 # My Attempt at the Face Mosaic Maker
@@ -21,6 +21,7 @@ Given a face with yellowish background, it generates a 48x48 pixel mosaic of the
 
 ## Demo
 * **Input - Select Input Face** -> This input shown is the slightly smiling face of my friend who is secretly happy on being the poster-boy for this demo <br/>
+<img src="/images/Input.png" alt="Input" height="200"/>
 ![Input](/images/Input.png)
 
 * **Intermediate - Matlab Figure** -> Shows all the Face Mosaic options to choose from <br/>
