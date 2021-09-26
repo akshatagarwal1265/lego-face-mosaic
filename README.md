@@ -22,7 +22,7 @@ Given a face with yellowish background, it generates a 48x48 pixel mosaic of the
 ## Demo
 * **Input - Select Input Face** -> This input shown is the slightly smiling face of my friend who is secretly happy on being the poster-boy for this demo <br/>
 <!-- <img src="/images/Input.png" alt="Input" height="200"/> -->
-! <img width=200/> [Input](/images/Input.png)
+! <img width=200/> ![Input](/images/Input.png)
 
 * **Intermediate - Matlab Figure** -> Shows all the Face Mosaic options to choose from <br/>
 ![Matlab Figure](/images/OutputFigure.JPG)
